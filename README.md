@@ -15,16 +15,12 @@
 Here are some screenshots showcasing the stunning **widgetButtons** in action:
 
 1. Home Screen with widgetButtons:
-![Simulator Screenshot - iPhone 14 Pro - 2023-07-31 at 10 00 27]
 <img src="https://github.com/RazvanO2/widgetButtons/assets/40454984/bb075cd4-718f-4aa4-a6b3-16083d697db5"  width="30%">
 
 2. Landscape view:
-![Simulator Screenshot - iPhone 14 Pro - 2023-07-31 at 10 00 35]
 <img src="https://github.com/RazvanO2/widgetButtons/assets/40454984/c198bcb7-b8d9-4fef-b33b-00b70fc769d1"  width="30%">
-![Simulator Screenshot - iPhone 14 Pro - 2023-07-31 at 10 00 43]()
 <img src="https://github.com/RazvanO2/widgetButtons/assets/40454984/cdeae2a1-6e75-4496-9869-5981ba33c470"  width="30%">
 4. Dark Mode Support:
-   ![Simulator Screenshot - iPhone 14 Pro - 2023-07-31 at 10 06 09]
 <img src="https://github.com/RazvanO2/widgetButtons/assets/40454984/27543496-b5b9-4868-bfa5-a50015be70ac"  width="30%">
 
 ## Installation
